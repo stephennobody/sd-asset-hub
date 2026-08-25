@@ -1,0 +1,190 @@
+{
+  "id": "sd001",
+  "zh": "美人计",
+  "vi": "Mỹ Nhân Kế",
+  "groups": [
+    {
+      "id": "g1",
+      "zh": "杨灵",
+      "vi": "Dương Linh",
+      "cat": "face",
+      "divider": "主角（已定稿）· Vai chính (đã chốt)"
+    },
+    {
+      "id": "g2",
+      "zh": "陆明",
+      "vi": "Lục Minh",
+      "cat": "face"
+    },
+    {
+      "id": "g3",
+      "zh": "秦墨",
+      "vi": "Tần Mặc",
+      "cat": "face"
+    },
+    {
+      "id": "g4",
+      "zh": "阿宁",
+      "vi": "A Ninh",
+      "cat": "face",
+      "divider": "NPC 人物 · Nhân vật NPC"
+    },
+    {
+      "id": "g5",
+      "zh": "关林",
+      "vi": "Quan Lâm",
+      "cat": "face"
+    },
+    {
+      "id": "g6",
+      "zh": "关瑜",
+      "vi": "Quan Du",
+      "cat": "face"
+    }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "name": "杨灵",
+      "file": "img/img-001.jpg",
+      "thumb": "th/img-001.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 2,
+      "name": "陆明",
+      "file": "img/img-002.jpg",
+      "thumb": "th/img-002.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 3,
+      "name": "秦墨",
+      "file": "img/img-003.jpg",
+      "thumb": "th/img-003.jpg",
+      "w": 960,
+      "h": 1280,
+      "group": "g3"
+    },
+    {
+      "n": 4,
+      "name": "阿宁-1",
+      "file": "img/img-004.jpg",
+      "thumb": "th/img-004.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 5,
+      "name": "阿宁-2",
+      "file": "img/img-005.jpg",
+      "thumb": "th/img-005.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 6,
+      "name": "阿宁-3",
+      "file": "img/img-006.jpg",
+      "thumb": "th/img-006.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 7,
+      "name": "阿宁-4",
+      "file": "img/img-007.jpg",
+      "thumb": "th/img-007.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 8,
+      "name": "关林-1",
+      "file": "img/img-008.jpg",
+      "thumb": "th/img-008.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 9,
+      "name": "关林-2",
+      "file": "img/img-009.jpg",
+      "thumb": "th/img-009.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 10,
+      "name": "关林-3",
+      "file": "img/img-010.jpg",
+      "thumb": "th/img-010.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 11,
+      "name": "关瑜-1",
+      "file": "img/img-011.jpg",
+      "thumb": "th/img-011.jpg",
+      "w": 1194,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 12,
+      "name": "关瑜-2",
+      "file": "img/img-012.jpg",
+      "thumb": "th/img-012.jpg",
+      "w": 1194,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 13,
+      "name": "关瑜-3",
+      "file": "img/img-013.jpg",
+      "thumb": "th/img-013.jpg",
+      "w": 1194,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 14,
+      "name": "关瑜-4",
+      "file": "img/img-014.jpg",
+      "thumb": "th/img-014.jpg",
+      "w": 1194,
+      "h": 1600,
+      "group": "g6"
+    }
+  ],
+  "locked": {
+    "g1": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已选定（第二轮）"
+    },
+    "g2": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已选定（第二轮）"
+    },
+    "g3": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已选定（第二轮）"
+    }
+  }
+}

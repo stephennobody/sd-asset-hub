@@ -1,0 +1,286 @@
+{
+  "id": "sd007",
+  "zh": "姐姐自愿嫁给死人",
+  "vi": "Chị Gái Tự Nguyện Gả Cho Người Chết",
+  "groups": [
+    {
+      "id": "g1",
+      "zh": "薇",
+      "vi": "Vy",
+      "cat": "face",
+      "divider": "人物 · Nhân vật"
+    },
+    {
+      "id": "g2",
+      "zh": "草",
+      "vi": "Thảo",
+      "cat": "face"
+    },
+    {
+      "id": "g3",
+      "zh": "兰",
+      "vi": "Lan",
+      "cat": "face"
+    },
+    {
+      "id": "g4",
+      "zh": "陈玉",
+      "vi": "Trần Ngọc",
+      "cat": "face"
+    },
+    {
+      "id": "g5",
+      "zh": "陈文",
+      "vi": "Trần Văn",
+      "cat": "face"
+    },
+    {
+      "id": "g6",
+      "zh": "阿光",
+      "vi": "A Quang",
+      "cat": "face"
+    },
+    {
+      "id": "g7",
+      "zh": "陈明",
+      "vi": "Trần Minh",
+      "cat": "face"
+    },
+    {
+      "id": "g8",
+      "zh": "薇的妈妈",
+      "vi": "Mẹ của Vy",
+      "cat": "face"
+    },
+    {
+      "id": "g9",
+      "zh": "陈老太",
+      "vi": "Bà cụ Trần",
+      "cat": "face"
+    },
+    {
+      "id": "g10",
+      "zh": "梁师傅",
+      "vi": "Thầy Lương",
+      "cat": "face"
+    }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "name": "薇-1",
+      "file": "img/img-001.jpg",
+      "thumb": "th/img-001.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "g1"
+    },
+    {
+      "n": 2,
+      "name": "薇-2",
+      "file": "img/img-002.jpg",
+      "thumb": "th/img-002.jpg",
+      "w": 1280,
+      "h": 714,
+      "group": "g1"
+    },
+    {
+      "n": 3,
+      "name": "草-1",
+      "file": "img/img-003.jpg",
+      "thumb": "th/img-003.jpg",
+      "w": 1600,
+      "h": 702,
+      "group": "g2"
+    },
+    {
+      "n": 4,
+      "name": "草-2",
+      "file": "img/img-004.jpg",
+      "thumb": "th/img-004.jpg",
+      "w": 1194,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 5,
+      "name": "草-3",
+      "file": "img/img-005.jpg",
+      "thumb": "th/img-005.jpg",
+      "w": 1194,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 6,
+      "name": "兰-1",
+      "file": "img/img-006.jpg",
+      "thumb": "th/img-006.jpg",
+      "w": 853,
+      "h": 1280,
+      "group": "g3"
+    },
+    {
+      "n": 7,
+      "name": "兰-2",
+      "file": "img/img-007.jpg",
+      "thumb": "th/img-007.jpg",
+      "w": 858,
+      "h": 1280,
+      "group": "g3"
+    },
+    {
+      "n": 8,
+      "name": "兰-3",
+      "file": "img/img-008.jpg",
+      "thumb": "th/img-008.jpg",
+      "w": 1024,
+      "h": 1536,
+      "group": "g3"
+    },
+    {
+      "n": 9,
+      "name": "陈玉",
+      "file": "img/img-009.jpg",
+      "thumb": "th/img-009.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 10,
+      "name": "陈文-1",
+      "file": "img/img-010.jpg",
+      "thumb": "th/img-010.jpg",
+      "w": 714,
+      "h": 1280,
+      "group": "g5"
+    },
+    {
+      "n": 11,
+      "name": "陈文-2",
+      "file": "img/img-011.jpg",
+      "thumb": "th/img-011.jpg",
+      "w": 714,
+      "h": 1280,
+      "group": "g5"
+    },
+    {
+      "n": 12,
+      "name": "陈文-3",
+      "file": "img/img-012.jpg",
+      "thumb": "th/img-012.jpg",
+      "w": 714,
+      "h": 1280,
+      "group": "g5"
+    },
+    {
+      "n": 13,
+      "name": "陈文-4",
+      "file": "img/img-013.jpg",
+      "thumb": "th/img-013.jpg",
+      "w": 714,
+      "h": 1280,
+      "group": "g5"
+    },
+    {
+      "n": 14,
+      "name": "阿光-1",
+      "file": "img/img-014.jpg",
+      "thumb": "th/img-014.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "g6"
+    },
+    {
+      "n": 15,
+      "name": "阿光-2",
+      "file": "img/img-015.jpg",
+      "thumb": "th/img-015.jpg",
+      "w": 1192,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 16,
+      "name": "陈明",
+      "file": "img/img-016.jpg",
+      "thumb": "th/img-016.jpg",
+      "w": 1302,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 17,
+      "name": "薇的妈妈",
+      "file": "img/img-017.jpg",
+      "thumb": "th/img-017.jpg",
+      "w": 1289,
+      "h": 1600,
+      "group": "g8"
+    },
+    {
+      "n": 18,
+      "name": "陈老太-1",
+      "file": "img/img-018.jpg",
+      "thumb": "th/img-018.jpg",
+      "w": 955,
+      "h": 1280,
+      "group": "g9"
+    },
+    {
+      "n": 19,
+      "name": "陈老太-2",
+      "file": "img/img-019.jpg",
+      "thumb": "th/img-019.jpg",
+      "w": 955,
+      "h": 1280,
+      "group": "g9"
+    },
+    {
+      "n": 20,
+      "name": "陈老太-3",
+      "file": "img/img-020.jpg",
+      "thumb": "th/img-020.jpg",
+      "w": 955,
+      "h": 1280,
+      "group": "g9"
+    },
+    {
+      "n": 21,
+      "name": "梁师傅",
+      "file": "img/img-021.jpg",
+      "thumb": "th/img-021.jpg",
+      "w": 1289,
+      "h": 1600,
+      "group": "g10"
+    }
+  ],
+  "locked": {
+    "g1": {
+      "type": "pick",
+      "item": 1,
+      "note": "测试已确认（多图仅展示）"
+    },
+    "g2": {
+      "type": "pick",
+      "item": 3,
+      "note": "测试已确认（多图仅展示）"
+    },
+    "g7": {
+      "type": "vote",
+      "agree": true,
+      "note": "测试已确认"
+    },
+    "g8": {
+      "type": "vote",
+      "agree": true,
+      "note": "测试已确认"
+    },
+    "g10": {
+      "type": "vote",
+      "agree": true,
+      "note": "测试已确认"
+    }
+  }
+}

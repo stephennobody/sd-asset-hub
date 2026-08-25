@@ -1,0 +1,759 @@
+{
+  "id": "sd002",
+  "zh": "死亡之吻",
+  "vi": "Nụ Hôn Tử Thần",
+  "groups": [
+    {
+      "id": "an",
+      "zh": "安",
+      "vi": "An",
+      "cat": "face"
+    },
+    {
+      "id": "du",
+      "zh": "杜",
+      "vi": "Đỗ",
+      "cat": "face"
+    },
+    {
+      "id": "ming",
+      "zh": "明",
+      "vi": "Minh",
+      "cat": "face"
+    },
+    {
+      "id": "mingwang",
+      "zh": "冥王 · 冥界统治者",
+      "vi": "Minh Vương · Chúa tể Minh giới",
+      "cat": "face"
+    },
+    {
+      "id": "mingmu",
+      "zh": "冥母",
+      "vi": "Minh Mẫu",
+      "cat": "face"
+    },
+    {
+      "id": "tianmu",
+      "zh": "天母",
+      "vi": "Thiên Mẫu",
+      "cat": "face"
+    },
+    {
+      "id": "tiandi",
+      "zh": "天帝",
+      "vi": "Thiên Đế",
+      "cat": "face"
+    },
+    {
+      "id": "pj01",
+      "zh": "便利店店员",
+      "vi": "Nhân viên cửa hàng tiện lợi",
+      "cat": "face",
+      "divider": "其他配角 · 每个角色只需点 同意 或 不同意（写理由） / Vai phụ · chỉ cần bấm Đồng ý hoặc Không đồng ý (ghi lý do)"
+    },
+    {
+      "id": "pj02",
+      "zh": "冥将",
+      "vi": "Minh Tướng",
+      "cat": "face"
+    },
+    {
+      "id": "pj03",
+      "zh": "前男友王",
+      "vi": "Vương (bạn trai cũ)",
+      "cat": "face"
+    },
+    {
+      "id": "pj04",
+      "zh": "医生A",
+      "vi": "Bác sĩ A",
+      "cat": "face"
+    },
+    {
+      "id": "pj05",
+      "zh": "医生B",
+      "vi": "Bác sĩ B",
+      "cat": "face"
+    },
+    {
+      "id": "pj06",
+      "zh": "同事",
+      "vi": "Đồng nghiệp",
+      "cat": "face"
+    },
+    {
+      "id": "pj07",
+      "zh": "天将",
+      "vi": "Thiên Tướng",
+      "cat": "face"
+    },
+    {
+      "id": "pj08",
+      "zh": "安母亲",
+      "vi": "Mẹ của An",
+      "cat": "face"
+    },
+    {
+      "id": "pj09",
+      "zh": "客人A",
+      "vi": "Khách A",
+      "cat": "face"
+    },
+    {
+      "id": "pj10",
+      "zh": "客人B",
+      "vi": "Khách B",
+      "cat": "face"
+    },
+    {
+      "id": "pj11",
+      "zh": "客人C",
+      "vi": "Khách C",
+      "cat": "face"
+    },
+    {
+      "id": "pj12",
+      "zh": "彩票老人",
+      "vi": "Ông lão mua vé số",
+      "cat": "face"
+    },
+    {
+      "id": "pj13",
+      "zh": "推销员",
+      "vi": "Nhân viên chào hàng",
+      "cat": "face"
+    },
+    {
+      "id": "pj14",
+      "zh": "摊主",
+      "vi": "Chủ quầy",
+      "cat": "face"
+    },
+    {
+      "id": "pj15",
+      "zh": "摊贩",
+      "vi": "Người bán hàng rong",
+      "cat": "face"
+    },
+    {
+      "id": "pj16",
+      "zh": "摩托骑手",
+      "vi": "Tài xế mô tô",
+      "cat": "face"
+    },
+    {
+      "id": "pj17",
+      "zh": "王的现任女友",
+      "vi": "Bạn gái hiện tại của Vương",
+      "cat": "face"
+    },
+    {
+      "id": "pj18",
+      "zh": "算命婆婆",
+      "vi": "Bà lão bói toán",
+      "cat": "face"
+    },
+    {
+      "id": "pj19",
+      "zh": "陌生死神A",
+      "vi": "Tử thần xa lạ A",
+      "cat": "face"
+    },
+    {
+      "id": "pj20",
+      "zh": "陌生死神B",
+      "vi": "Tử thần xa lạ B",
+      "cat": "face"
+    },
+    {
+      "id": "pj21",
+      "zh": "餐厅经理",
+      "vi": "Quản lý nhà hàng",
+      "cat": "face"
+    }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "name": "安-1",
+      "file": "img/img-002.jpg",
+      "thumb": "th/img-002.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "an",
+      "extra": "img/img-001.jpg",
+      "ew": 1200,
+      "eh": 1600,
+      "flab": "多视图 / Nhiều góc nhìn",
+      "xlab": "定妆照 / Ảnh định trang"
+    },
+    {
+      "n": 2,
+      "name": "安-2",
+      "file": "img/img-004.jpg",
+      "thumb": "th/img-004.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "an",
+      "extra": "img/img-003.jpg",
+      "ew": 1065,
+      "eh": 1600,
+      "flab": "多视图 / Nhiều góc nhìn",
+      "xlab": "定妆照 / Ảnh định trang"
+    },
+    {
+      "n": 3,
+      "name": "安-3",
+      "file": "img/img-006.jpg",
+      "thumb": "th/img-006.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "an",
+      "extra": "img/img-005.jpg",
+      "ew": 900,
+      "eh": 1600,
+      "flab": "多视图 / Nhiều góc nhìn",
+      "xlab": "定妆照 / Ảnh định trang"
+    },
+    {
+      "n": 4,
+      "name": "杜-1",
+      "file": "img/img-007.jpg",
+      "thumb": "th/img-007.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "du"
+    },
+    {
+      "n": 5,
+      "name": "杜-2",
+      "file": "img/img-008.jpg",
+      "thumb": "th/img-008.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "du"
+    },
+    {
+      "n": 6,
+      "name": "杜-3",
+      "file": "img/img-009.jpg",
+      "thumb": "th/img-009.jpg",
+      "w": 1600,
+      "h": 907,
+      "group": "du"
+    },
+    {
+      "n": 7,
+      "name": "杜-4",
+      "file": "img/img-010.jpg",
+      "thumb": "th/img-010.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "du"
+    },
+    {
+      "n": 8,
+      "name": "杜-5",
+      "file": "img/img-011.jpg",
+      "thumb": "th/img-011.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "du"
+    },
+    {
+      "n": 9,
+      "name": "明-1",
+      "file": "img/img-012.jpg",
+      "thumb": "th/img-012.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "ming"
+    },
+    {
+      "n": 10,
+      "name": "明-2",
+      "file": "img/img-013.jpg",
+      "thumb": "th/img-013.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "ming"
+    },
+    {
+      "n": 11,
+      "name": "明-3",
+      "file": "img/img-014.jpg",
+      "thumb": "th/img-014.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "ming"
+    },
+    {
+      "n": 12,
+      "name": "冥王-1",
+      "file": "img/img-015.jpg",
+      "thumb": "th/img-015.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "mingwang"
+    },
+    {
+      "n": 13,
+      "name": "冥王-2",
+      "file": "img/img-016.jpg",
+      "thumb": "th/img-016.jpg",
+      "w": 1600,
+      "h": 773,
+      "group": "mingwang"
+    },
+    {
+      "n": 14,
+      "name": "冥王-3",
+      "file": "img/img-017.jpg",
+      "thumb": "th/img-017.jpg",
+      "w": 1600,
+      "h": 907,
+      "group": "mingwang"
+    },
+    {
+      "n": 18,
+      "name": "冥母-1",
+      "file": "img/img-018.jpg",
+      "thumb": "th/img-018.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "mingmu"
+    },
+    {
+      "n": 19,
+      "name": "冥母-2",
+      "file": "img/img-019.jpg",
+      "thumb": "th/img-019.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "mingmu"
+    },
+    {
+      "n": 20,
+      "name": "冥母-3",
+      "file": "img/img-020.jpg",
+      "thumb": "th/img-020.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "mingmu"
+    },
+    {
+      "n": 21,
+      "name": "天母-1",
+      "file": "img/img-021.jpg",
+      "thumb": "th/img-021.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "tianmu"
+    },
+    {
+      "n": 22,
+      "name": "天母-2",
+      "file": "img/img-022.jpg",
+      "thumb": "th/img-022.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "tianmu"
+    },
+    {
+      "n": 23,
+      "name": "天母-3",
+      "file": "img/img-023.jpg",
+      "thumb": "th/img-023.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "tianmu"
+    },
+    {
+      "n": 24,
+      "name": "天母-4",
+      "file": "img/img-024.jpg",
+      "thumb": "th/img-024.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "tianmu"
+    },
+    {
+      "n": 25,
+      "name": "天母-5",
+      "file": "img/img-025.jpg",
+      "thumb": "th/img-025.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "tianmu"
+    },
+    {
+      "n": 26,
+      "name": "天帝-1",
+      "file": "img/img-026.jpg",
+      "thumb": "th/img-026.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "tiandi"
+    },
+    {
+      "n": 27,
+      "name": "天帝-2",
+      "file": "img/img-027.jpg",
+      "thumb": "th/img-027.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "tiandi"
+    },
+    {
+      "n": 28,
+      "name": "天帝-3",
+      "file": "img/img-028.jpg",
+      "thumb": "th/img-028.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "tiandi"
+    },
+    {
+      "n": 29,
+      "name": "天帝-4",
+      "file": "img/img-029.jpg",
+      "thumb": "th/img-029.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "tiandi"
+    },
+    {
+      "n": 30,
+      "name": "便利店店员",
+      "file": "img/img-030.jpg",
+      "thumb": "th/img-030.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj01"
+    },
+    {
+      "n": 31,
+      "name": "冥将",
+      "file": "img/img-031.jpg",
+      "thumb": "th/img-031.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj02"
+    },
+    {
+      "n": 32,
+      "name": "前男友王",
+      "file": "img/img-032.jpg",
+      "thumb": "th/img-032.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "pj03"
+    },
+    {
+      "n": 33,
+      "name": "医生A",
+      "file": "img/img-033.jpg",
+      "thumb": "th/img-033.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj04"
+    },
+    {
+      "n": 34,
+      "name": "医生B",
+      "file": "img/img-034.jpg",
+      "thumb": "th/img-034.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj05"
+    },
+    {
+      "n": 35,
+      "name": "同事",
+      "file": "img/img-035.jpg",
+      "thumb": "th/img-035.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj06"
+    },
+    {
+      "n": 36,
+      "name": "天将",
+      "file": "img/img-036.jpg",
+      "thumb": "th/img-036.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj07"
+    },
+    {
+      "n": 37,
+      "name": "安母亲",
+      "file": "img/img-037.jpg",
+      "thumb": "th/img-037.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj08"
+    },
+    {
+      "n": 38,
+      "name": "客人A",
+      "file": "img/img-038.jpg",
+      "thumb": "th/img-038.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj09"
+    },
+    {
+      "n": 39,
+      "name": "客人B",
+      "file": "img/img-039.jpg",
+      "thumb": "th/img-039.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj10"
+    },
+    {
+      "n": 40,
+      "name": "客人C",
+      "file": "img/img-040.jpg",
+      "thumb": "th/img-040.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj11"
+    },
+    {
+      "n": 41,
+      "name": "彩票老人",
+      "file": "img/img-041.jpg",
+      "thumb": "th/img-041.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj12"
+    },
+    {
+      "n": 42,
+      "name": "推销员",
+      "file": "img/img-042.jpg",
+      "thumb": "th/img-042.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj13"
+    },
+    {
+      "n": 43,
+      "name": "摊主",
+      "file": "img/img-043.jpg",
+      "thumb": "th/img-043.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj14"
+    },
+    {
+      "n": 44,
+      "name": "摊贩",
+      "file": "img/img-044.jpg",
+      "thumb": "th/img-044.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj15"
+    },
+    {
+      "n": 45,
+      "name": "摩托骑手",
+      "file": "img/img-045.jpg",
+      "thumb": "th/img-045.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj16"
+    },
+    {
+      "n": 46,
+      "name": "王的现任女友",
+      "file": "img/img-046.jpg",
+      "thumb": "th/img-046.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj17"
+    },
+    {
+      "n": 47,
+      "name": "算命婆婆",
+      "file": "img/img-047.jpg",
+      "thumb": "th/img-047.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj18"
+    },
+    {
+      "n": 48,
+      "name": "陌生死神A",
+      "file": "img/img-048.jpg",
+      "thumb": "th/img-048.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "pj19"
+    },
+    {
+      "n": 49,
+      "name": "陌生死神B",
+      "file": "img/img-049.jpg",
+      "thumb": "th/img-049.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj20"
+    },
+    {
+      "n": 50,
+      "name": "餐厅经理",
+      "file": "img/img-050.jpg",
+      "thumb": "th/img-050.jpg",
+      "w": 1600,
+      "h": 906,
+      "group": "pj21"
+    }
+  ],
+  "locked": {
+    "an": {
+      "type": "pick",
+      "item": 1,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "du": {
+      "type": "pick",
+      "item": 4,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "ming": {
+      "type": "pick",
+      "item": 9,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "mingwang": {
+      "type": "pick",
+      "item": 14,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "mingmu": {
+      "type": "pick",
+      "item": 18,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "tianmu": {
+      "type": "pick",
+      "item": 21,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "tiandi": {
+      "type": "pick",
+      "item": 29,
+      "note": "Dennis 已选定 / Dennis đã chọn"
+    },
+    "pj01": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj02": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj03": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj04": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj05": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj06": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj07": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj08": {
+      "type": "vote",
+      "agree": false,
+      "note": "Dennis 不同意 / Dennis không đồng ý · 还不行，需要多一些选择",
+      "reason": "还不行，需要多一些选择"
+    },
+    "pj09": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj10": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj11": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj12": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj13": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj14": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj15": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj16": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj17": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj18": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj19": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj20": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    },
+    "pj21": {
+      "type": "vote",
+      "agree": true,
+      "note": "Dennis 已同意 / Dennis đồng ý"
+    }
+  }
+}
