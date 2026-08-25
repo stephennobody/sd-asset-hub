@@ -410,7 +410,7 @@ function renderContent(){
   M.groups.forEach(g=>{
     const items=groupItems(g.id);
     if(!items.length)return;
-    const locked=STAGE==='face'&&isLocked(g.id);
+    const locked=isLocked(g.id);
     if(STAGE==='face'&&g.cat!=='face')return;
     if(STAGE==='rest'&&locked)return;
     if(g.divider){
