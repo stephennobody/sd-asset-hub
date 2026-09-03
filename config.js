@@ -10,5 +10,6 @@ const HUB = [
   {id:'sd003', zh:'纹身之神', vi:'Thần Hình Xăm'},
   {id:'sd005', zh:'前男友复仇', vi:'Báo Thù Thay Tôi'},
   {id:'sd006', zh:'伪装实习生', vi:'Thực Tập Sinh Ngụy Trang'},
-  {id:'sd007', zh:'姐姐自愿嫁给死人', vi:'Chị Gái Tự Nguyện Gả Cho Người Chết'}
+  {id:'sd007', zh:'姐姐自愿嫁给死人', vi:'Chị Gái Tự Nguyện Gả Cho Người Chết'},
+  {id:'sd008', zh:'审判游戏', vi:'Trò Chơi Phán Xét'}
 ];

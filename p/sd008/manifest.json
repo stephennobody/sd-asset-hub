@@ -1,0 +1,377 @@
+{
+  "id": "sd008",
+  "zh": "审判游戏",
+  "vi": "Trò Chơi Phán Xét",
+  "groups": [
+    {
+      "id": "g1",
+      "zh": "阿蝶 · 基础造型",
+      "vi": "Duy · Tạo hình cơ bản",
+      "cat": "face",
+      "divider": "人物 · Nhân vật"
+    },
+    {
+      "id": "g2",
+      "zh": "阿福 · 基础造型",
+      "vi": "Phúc · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g3",
+      "zh": "阿汗 · 基础造型",
+      "vi": "Hạnh · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g4",
+      "zh": "阿林 · 基础造型",
+      "vi": "Linh · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g5",
+      "zh": "阿南 · 基础造型",
+      "vi": "Nam · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g6",
+      "zh": "阿全 · 基础造型",
+      "vi": "Quân · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g7",
+      "zh": "阿通 · 基础造型",
+      "vi": "Tùng · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g8",
+      "zh": "阿婉 · 基础造型",
+      "vi": "Vân · Tạo hình cơ bản",
+      "cat": "face"
+    },
+    {
+      "id": "g9",
+      "zh": "阮明庆 · 员工档案照",
+      "vi": "Nguyễn Minh Khánh · Ảnh hồ sơ nhân viên",
+      "cat": "face"
+    },
+    {
+      "id": "g10",
+      "zh": "至高者 · 基础造型",
+      "vi": "Man · Đấng Tối Cao · Tạo hình cơ bản",
+      "cat": "face"
+    }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "name": "阿蝶-1",
+      "file": "img/img-001.jpg",
+      "thumb": "th/img-001.jpg",
+      "w": 893,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 2,
+      "name": "阿蝶-2",
+      "file": "img/img-002.jpg",
+      "thumb": "th/img-002.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 3,
+      "name": "阿蝶-3",
+      "file": "img/img-003.jpg",
+      "thumb": "th/img-003.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 4,
+      "name": "阿蝶-4",
+      "file": "img/img-004.jpg",
+      "thumb": "th/img-004.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 5,
+      "name": "阿福-1",
+      "file": "img/img-005.jpg",
+      "thumb": "th/img-005.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 6,
+      "name": "阿福-2",
+      "file": "img/img-006.jpg",
+      "thumb": "th/img-006.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 7,
+      "name": "阿福-3",
+      "file": "img/img-007.jpg",
+      "thumb": "th/img-007.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 8,
+      "name": "阿福-4",
+      "file": "img/img-008.jpg",
+      "thumb": "th/img-008.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 9,
+      "name": "阿福-5",
+      "file": "img/img-009.jpg",
+      "thumb": "th/img-009.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g2"
+    },
+    {
+      "n": 10,
+      "name": "阿汗-1",
+      "file": "img/img-010.jpg",
+      "thumb": "th/img-010.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 11,
+      "name": "阿汗-2",
+      "file": "img/img-011.jpg",
+      "thumb": "th/img-011.jpg",
+      "w": 893,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 12,
+      "name": "阿汗-3",
+      "file": "img/img-012.jpg",
+      "thumb": "th/img-012.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 13,
+      "name": "阿汗-4",
+      "file": "img/img-013.jpg",
+      "thumb": "th/img-013.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 14,
+      "name": "阿汗-5",
+      "file": "img/img-014.jpg",
+      "thumb": "th/img-014.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 15,
+      "name": "阿林-1",
+      "file": "img/img-015.jpg",
+      "thumb": "th/img-015.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 16,
+      "name": "阿林-2",
+      "file": "img/img-016.jpg",
+      "thumb": "th/img-016.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 17,
+      "name": "阿南-1",
+      "file": "img/img-017.jpg",
+      "thumb": "th/img-017.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 18,
+      "name": "阿南-2",
+      "file": "img/img-018.jpg",
+      "thumb": "th/img-018.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 19,
+      "name": "阿全-1",
+      "file": "img/img-019.jpg",
+      "thumb": "th/img-019.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 20,
+      "name": "阿全-2",
+      "file": "img/img-020.jpg",
+      "thumb": "th/img-020.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 21,
+      "name": "阿全-3",
+      "file": "img/img-021.jpg",
+      "thumb": "th/img-021.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 22,
+      "name": "阿通-1",
+      "file": "img/img-022.jpg",
+      "thumb": "th/img-022.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 23,
+      "name": "阿通-2",
+      "file": "img/img-023.jpg",
+      "thumb": "th/img-023.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 24,
+      "name": "阿通-3",
+      "file": "img/img-024.jpg",
+      "thumb": "th/img-024.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 25,
+      "name": "阿通-4",
+      "file": "img/img-025.jpg",
+      "thumb": "th/img-025.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 26,
+      "name": "阿婉-1",
+      "file": "img/img-026.jpg",
+      "thumb": "th/img-026.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g8"
+    },
+    {
+      "n": 27,
+      "name": "阿婉-2",
+      "file": "img/img-027.jpg",
+      "thumb": "th/img-027.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g8"
+    },
+    {
+      "n": 28,
+      "name": "阿婉-3",
+      "file": "img/img-028.jpg",
+      "thumb": "th/img-028.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g8"
+    },
+    {
+      "n": 29,
+      "name": "阮明庆-1",
+      "file": "img/img-029.jpg",
+      "thumb": "th/img-029.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 30,
+      "name": "阮明庆-2",
+      "file": "img/img-030.jpg",
+      "thumb": "th/img-030.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 31,
+      "name": "阮明庆-3",
+      "file": "img/img-031.jpg",
+      "thumb": "th/img-031.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 32,
+      "name": "至高者-1",
+      "file": "img/img-032.jpg",
+      "thumb": "th/img-032.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g10"
+    },
+    {
+      "n": 33,
+      "name": "至高者-2",
+      "file": "img/img-033.jpg",
+      "thumb": "th/img-033.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g10"
+    },
+    {
+      "n": 34,
+      "name": "至高者-3",
+      "file": "img/img-034.jpg",
+      "thumb": "th/img-034.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g10"
+    }
+  ],
+  "locked": {}
+}
