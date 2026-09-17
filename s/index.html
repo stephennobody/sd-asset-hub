@@ -317,6 +317,7 @@ async function boot(){
   if(!pj){document.body.innerHTML='<div style="padding:40px;text-align:center">Dự án không tồn tại · 项目不存在</div>';return;}
   M=await fetch(pbase()+'manifest.json').then(r=>r.json());
   load();
+  retryPending();
   if(STAGE==='rest'){
     // 拉取 Dennis 最新 face 提交作为动态锁定
     try{
@@ -700,8 +701,24 @@ async function submit(){
     $('done').classList.add('open'); document.body.style.overflow='hidden';
   }catch(e){
     $('prog').classList.remove('open');
-    toast('Gửi thất bại, vui lòng kiểm tra mạng · 提交失败，请检查网络');
+    try{localStorage.setItem('sdhub_pending_'+PID+'_'+STAGE, JSON.stringify(payload));}catch(_){}
+    toast('Mạng lỗi — lựa chọn đã lưu, sẽ tự gửi lại khi mở lại trang · 网络异常——选择已保存，重新打开页面会自动补交');
   }
+}
+async function retryPending(){
+  let raw=null;
+  try{raw=localStorage.getItem('sdhub_pending_'+PID+'_'+STAGE);}catch(e){}
+  if(!raw)return;
+  try{
+    const r=await fetch(CONFIG.SUPABASE_URL+'/rest/v1/submissions',{
+      method:'POST',
+      headers:{'apikey':CONFIG.SUPABASE_KEY,'Authorization':'Bearer '+CONFIG.SUPABASE_KEY,'Content-Type':'application/json'},
+      body:raw
+    });
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    localStorage.removeItem('sdhub_pending_'+PID+'_'+STAGE);
+    toast('Đã tự động gửi lại lựa chọn trước đó · 已自动补交上次的选择');
+  }catch(e){/* 仍无网络，保留待补交 */}
 }
 $('btnSubmit').onclick=submit;
 $('btnSubmit2').onclick=submit;
