@@ -1,0 +1,563 @@
+{
+  "id": "sd009",
+  "zh": "审判游戏 EP21-40",
+  "vi": "Trò Chơi Phán Xét Tập 21-40",
+  "groups": [
+    {
+      "id": "g1",
+      "zh": "Khôi · 长相",
+      "vi": "Khôi · Gương mặt",
+      "cat": "face",
+      "divider": "人物 · Nhân vật"
+    },
+    {
+      "id": "g2",
+      "zh": "Khôi · 服装",
+      "vi": "Khôi · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g3",
+      "zh": "Bảo · 长相",
+      "vi": "Bảo · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g4",
+      "zh": "Bảo · 服装",
+      "vi": "Bảo · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g5",
+      "zh": "Long · 长相",
+      "vi": "Long · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g6",
+      "zh": "Long · 服装",
+      "vi": "Long · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g7",
+      "zh": "My · 长相",
+      "vi": "My · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g8",
+      "zh": "My · 服装",
+      "vi": "My · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g9",
+      "zh": "Thảo · 长相",
+      "vi": "Thảo · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g10",
+      "zh": "Trang · 长相",
+      "vi": "Trang · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g11",
+      "zh": "Trang · 服装",
+      "vi": "Trang · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g12",
+      "zh": "Yến · 长相",
+      "vi": "Yến · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g13",
+      "zh": "Yến · 服装",
+      "vi": "Yến · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g14",
+      "zh": "Hương老师 · 长相",
+      "vi": "Cô Hương · Gương mặt",
+      "cat": "face"
+    },
+    {
+      "id": "g15",
+      "zh": "Hương老师 · 服装",
+      "vi": "Cô Hương · Trang phục",
+      "cat": "face"
+    },
+    {
+      "id": "g16",
+      "zh": "全班学生（女）",
+      "vi": "Học sinh cả lớp (nữ)",
+      "cat": "face"
+    },
+    {
+      "id": "g17",
+      "zh": "全班学生（男）",
+      "vi": "Học sinh cả lớp (nam)",
+      "cat": "face"
+    }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "name": "Khôi-1",
+      "file": "img/img-001.jpg",
+      "thumb": "th/img-001.jpg",
+      "w": 1132,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 2,
+      "name": "Khôi-2",
+      "file": "img/img-002.jpg",
+      "thumb": "th/img-002.jpg",
+      "w": 1035,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 3,
+      "name": "Khôi-3",
+      "file": "img/img-003.jpg",
+      "thumb": "th/img-003.jpg",
+      "w": 1106,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 4,
+      "name": "Khôi-4",
+      "file": "img/img-004.jpg",
+      "thumb": "th/img-004.jpg",
+      "w": 1155,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 5,
+      "name": "Khôi-5",
+      "file": "img/img-005.jpg",
+      "thumb": "th/img-005.jpg",
+      "w": 1092,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 6,
+      "name": "Khôi-6",
+      "file": "img/img-006.jpg",
+      "thumb": "th/img-006.jpg",
+      "w": 1100,
+      "h": 1600,
+      "group": "g1"
+    },
+    {
+      "n": 7,
+      "name": "Khôi-1",
+      "file": "img/img-007.jpg",
+      "thumb": "th/img-007.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "g2"
+    },
+    {
+      "n": 8,
+      "name": "Khôi-2",
+      "file": "img/img-008.jpg",
+      "thumb": "th/img-008.jpg",
+      "w": 1600,
+      "h": 900,
+      "group": "g2"
+    },
+    {
+      "n": 9,
+      "name": "Bảo-1",
+      "file": "img/img-009.jpg",
+      "thumb": "th/img-009.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 10,
+      "name": "Bảo-2",
+      "file": "img/img-010.jpg",
+      "thumb": "th/img-010.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 11,
+      "name": "Bảo-3",
+      "file": "img/img-011.jpg",
+      "thumb": "th/img-011.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 12,
+      "name": "Bảo-4",
+      "file": "img/img-012.jpg",
+      "thumb": "th/img-012.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g3"
+    },
+    {
+      "n": 13,
+      "name": "Bảo-1",
+      "file": "img/img-013.jpg",
+      "thumb": "th/img-013.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 14,
+      "name": "Bảo-2",
+      "file": "img/img-014.jpg",
+      "thumb": "th/img-014.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g4"
+    },
+    {
+      "n": 15,
+      "name": "Long-1",
+      "file": "img/img-015.jpg",
+      "thumb": "th/img-015.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 16,
+      "name": "Long-2",
+      "file": "img/img-016.jpg",
+      "thumb": "th/img-016.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 17,
+      "name": "Long-3",
+      "file": "img/img-017.jpg",
+      "thumb": "th/img-017.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 18,
+      "name": "Long-4",
+      "file": "img/img-018.jpg",
+      "thumb": "th/img-018.jpg",
+      "w": 1600,
+      "h": 1600,
+      "group": "g5"
+    },
+    {
+      "n": 19,
+      "name": "Long-1",
+      "file": "img/img-019.jpg",
+      "thumb": "th/img-019.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 20,
+      "name": "Long-2",
+      "file": "img/img-020.jpg",
+      "thumb": "th/img-020.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g6"
+    },
+    {
+      "n": 21,
+      "name": "My-1",
+      "file": "img/img-021.jpg",
+      "thumb": "th/img-021.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 22,
+      "name": "My-2",
+      "file": "img/img-022.jpg",
+      "thumb": "th/img-022.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 23,
+      "name": "My-3",
+      "file": "img/img-023.jpg",
+      "thumb": "th/img-023.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 24,
+      "name": "My-4",
+      "file": "img/img-024.jpg",
+      "thumb": "th/img-024.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 25,
+      "name": "My-5",
+      "file": "img/img-025.jpg",
+      "thumb": "th/img-025.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g7"
+    },
+    {
+      "n": 26,
+      "name": "My-1",
+      "file": "img/img-026.jpg",
+      "thumb": "th/img-026.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g8"
+    },
+    {
+      "n": 27,
+      "name": "Thảo-1",
+      "file": "img/img-027.jpg",
+      "thumb": "th/img-027.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 28,
+      "name": "Thảo-2",
+      "file": "img/img-028.jpg",
+      "thumb": "th/img-028.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 29,
+      "name": "Thảo-3",
+      "file": "img/img-029.jpg",
+      "thumb": "th/img-029.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 30,
+      "name": "Thảo-4",
+      "file": "img/img-030.jpg",
+      "thumb": "th/img-030.jpg",
+      "w": 1198,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 31,
+      "name": "Thảo-5",
+      "file": "img/img-031.jpg",
+      "thumb": "th/img-031.jpg",
+      "w": 1452,
+      "h": 1600,
+      "group": "g9"
+    },
+    {
+      "n": 32,
+      "name": "Trang-1",
+      "file": "img/img-032.jpg",
+      "thumb": "th/img-032.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g10"
+    },
+    {
+      "n": 33,
+      "name": "Trang-2",
+      "file": "img/img-033.jpg",
+      "thumb": "th/img-033.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g10"
+    },
+    {
+      "n": 34,
+      "name": "Trang-3",
+      "file": "img/img-034.jpg",
+      "thumb": "th/img-034.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g10"
+    },
+    {
+      "n": 35,
+      "name": "Trang-1",
+      "file": "img/img-035.jpg",
+      "thumb": "th/img-035.jpg",
+      "w": 1125,
+      "h": 1600,
+      "group": "g11"
+    },
+    {
+      "n": 36,
+      "name": "Trang-2",
+      "file": "img/img-036.jpg",
+      "thumb": "th/img-036.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g11"
+    },
+    {
+      "n": 37,
+      "name": "Yến-1",
+      "file": "img/img-037.jpg",
+      "thumb": "th/img-037.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g12"
+    },
+    {
+      "n": 38,
+      "name": "Yến-2",
+      "file": "img/img-038.jpg",
+      "thumb": "th/img-038.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g12"
+    },
+    {
+      "n": 39,
+      "name": "Yến-3",
+      "file": "img/img-039.jpg",
+      "thumb": "th/img-039.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g12"
+    },
+    {
+      "n": 40,
+      "name": "Yến-4",
+      "file": "img/img-040.jpg",
+      "thumb": "th/img-040.jpg",
+      "w": 1200,
+      "h": 1600,
+      "group": "g12"
+    },
+    {
+      "n": 41,
+      "name": "Yến-1",
+      "file": "img/img-041.jpg",
+      "thumb": "th/img-041.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g13"
+    },
+    {
+      "n": 42,
+      "name": "Yến-2",
+      "file": "img/img-042.jpg",
+      "thumb": "th/img-042.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g13"
+    },
+    {
+      "n": 43,
+      "name": "Hương老师-1",
+      "file": "img/img-043.jpg",
+      "thumb": "th/img-043.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g14"
+    },
+    {
+      "n": 44,
+      "name": "Hương老师-2",
+      "file": "img/img-044.jpg",
+      "thumb": "th/img-044.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g14"
+    },
+    {
+      "n": 45,
+      "name": "Hương老师-3",
+      "file": "img/img-045.jpg",
+      "thumb": "th/img-045.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g14"
+    },
+    {
+      "n": 46,
+      "name": "Hương老师-4",
+      "file": "img/img-046.jpg",
+      "thumb": "th/img-046.jpg",
+      "w": 1066,
+      "h": 1600,
+      "group": "g14"
+    },
+    {
+      "n": 47,
+      "name": "Hương老师-1",
+      "file": "img/img-047.jpg",
+      "thumb": "th/img-047.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g15"
+    },
+    {
+      "n": 48,
+      "name": "Hương老师-2",
+      "file": "img/img-048.jpg",
+      "thumb": "th/img-048.jpg",
+      "w": 900,
+      "h": 1600,
+      "group": "g15"
+    },
+    {
+      "n": 49,
+      "name": "全班学生（女）",
+      "file": "img/img-049.jpg",
+      "thumb": "th/img-049.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "g16"
+    },
+    {
+      "n": 50,
+      "name": "全班学生（男）",
+      "file": "img/img-050.jpg",
+      "thumb": "th/img-050.jpg",
+      "w": 1600,
+      "h": 903,
+      "group": "g17"
+    }
+  ],
+  "locked": {}
+}
